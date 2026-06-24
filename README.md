@@ -1,4 +1,4 @@
-# 🤖 Gradio Groq Chatbot
+# Gradio Groq Chatbot
 
 A customizable AI chatbot built using **Gradio** and **Groq**.
 
