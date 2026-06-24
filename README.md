@@ -1,14 +1,24 @@
 # Gradio Groq Chatbot
 
-A customizable AI chatbot built with Gradio and Groq.
+A customizable AI chatbot built with Gradio and Groq that supports:
 
-## Features
-- Custom System Prompt
+- Custom System Prompts
 - Temperature Control
-- Streaming Responses
-- Chat History
+- Real-Time Streaming Responses
+- Chat History Memory
+- Llama 3.3 70B via Groq
+
+## Installation
+
+pip install -r requirements.txt
 
 ## Run
 
-pip install -r requirements.txt
 python app.py
+
+## Tech Stack
+
+- Python
+- Gradio
+- Groq API
+- Llama 3.3 70B
