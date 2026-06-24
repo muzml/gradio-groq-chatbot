@@ -4,11 +4,11 @@ A customizable AI chatbot built using **Gradio** and **Groq**.
 
 ## ✨ Features
 
-* Custom System Prompt
-* Temperature Control
-* Real-Time Streaming Responses
-* Full Chat History
-* Powered by Groq Llama Models
+- Custom System Prompt
+- Temperature Control
+- Real-Time Streaming Responses
+- Full Chat History
+- Powered by Groq Llama Models
 
 ## 📸 Screenshots
 
